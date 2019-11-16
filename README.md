@@ -71,4 +71,27 @@ proyek:
 ![program1](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/program1.PNG)
 
 
-1.
+1.Nilai modal
+
+2.Nilai laba 0
+
+3.Nilai untung 0
+
+4.Perulangan i dengan nilai awal 1,nilai akhir 9 dan step 1
+
+5.Kondisi apalagi belum bulan ke-3 laba masih 0%
+
+6.Kondisi apabila memasuki bulan ke-5,mendapatkan laba 1%
+
+7.kondisi apabila memasui bulan ke-8,mendapatan laba sebesar 5%
+
+8.Pada bulan ke-8 menurun 2%,sehingga laba bulan ke-8 sebesar 3%
+
+9.Mencetak laba perbulan
+
+10.Menghitung total laba selama 8 bulan
+
+output:
+
+![output program1](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/output%20program1.PNG)
+
