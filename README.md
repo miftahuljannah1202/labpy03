@@ -1,14 +1,74 @@
 #latihan1
+
 #Menampilkan n bilangan acak lebih kecil dari 0,5
+
+proyek:
+
+![latihan1](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/latihan1.PNG)
 
 
 1.Memperkenalkan variabel n sebagai integer,kemudian menginputkan nilainya
+
 2.Menginput fungsi random
+
 3.Memperkenalkan variabel a sebagai random
+
 4.Jumlah variabel n+1
+
 5.Dimulai dari angka 1
+
 6.Berhenti ketika variabel jumlah sudah selesai
+
 7.Step angka 1
+
 8.Perulangan i dengan nilai awal variabel start,nilai akhir variabel stop dan step variabel step
-9.Mencetak hasil# labpy03
-# labpy03
+
+9.Mencetak hasil
+
+output:
+
+![output latihan1](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/output%20latihan1.PNG)
+
+
+#latihan2
+
+#Menampilkan bilangan terbesar
+
+proyek:
+
+![latihan2](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/latihan2.PNG)
+
+
+1.Memperkenalkan variabel x sebagai integer,kemudian menginput nilainya
+
+2.Memperkenalkan variabel y sebgai dengan nilai 0
+
+3.Looping while apabila nilai x tidak sama dengan 0
+
+4.Program yang akan di looping
+
+5.If kondisi apabila nilai lebih besar dari nilai x
+
+6.Nilai y sama dengan nilai x
+
+7.If kondisi apabila nilai x sama dengan nilai 0
+
+8.Fungsi yang menghentikan operasi dibawahnya jika kondisi yang ditentukan telah dicapai
+
+9.Mencetak bilangan terbesar
+
+output:
+
+![output latihan2](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/output%20latihan2.PNG)
+
+
+#program1
+
+#program sederhana menggunakan perulangan
+
+proyek:
+
+![program1](https://github.com/miftahuljannah1202/labpy03/blob/master/gambar1/program1.PNG)
+
+
+1.
